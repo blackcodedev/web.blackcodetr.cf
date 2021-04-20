@@ -1,0 +1,12 @@
+{
+  "prefix" : "",
+  "owner" : [""],
+  "clientid" : "",
+  "clientsecret" : "",
+  "clientcallback" : "",
+  "mongoURL" : "",
+  "serverID": "",
+  "footer": "",
+  "token":"",
+  "tags": ["Moderasyon", "Eğlence", "Minecraft","Ekonomi","Guard","NSFW","Anime","Davet","Müzik","Log Sistemi", "Web Dashboard", "Reddit", "Youtube", "Twitch", "Kripto Para", "Seviye Sistemi", "Oyun", "Roleplay", "Utility", "Türkçe"]
+}
